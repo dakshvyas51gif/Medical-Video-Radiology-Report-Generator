@@ -179,11 +179,3 @@ The prompt also tells the model to describe **only visible findings** and **not 
 This project is released under the [MIT License](LICENSE). Feel free to use and modify it for learning purposes.
 
 ---
-
-## **🤝 Contributing**
-
-Contributions, issues, and feature requests are welcome! Fork the repo, create a branch, and open a pull request.
-
----
-
-**Made with ❤️ using Streamlit and Google Gemini**
